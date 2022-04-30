@@ -1705,6 +1705,12 @@ input, select, textarea {
 		}
 
 /* Container */
+	.container1 {
+		margin: 0 auto;
+		max-width: calc(100% - 4.5em);
+		width: 75em;
+		padding-top: 2em;
+	}
 
 	.container {
 		margin: 0 auto;
